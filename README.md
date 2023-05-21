@@ -42,3 +42,7 @@ weekly sales.
 on specific characteristics.
 
 3_ Compare the accuracy of the two models (in percentages).
+
+
+
+
